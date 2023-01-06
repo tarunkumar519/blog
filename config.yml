@@ -18,8 +18,9 @@ params:
       url: "https://blog.tarunx.me/index.xml"
     - name: buymeacoffee
       url: "https://buymeacoffee.com/tharunx" 
-   assets:
-       disableFingerprinting: true
+params:
+    assets:
+        disableFingerprinting: true
   cover:
     linkFullImages: true
 
