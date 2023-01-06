@@ -1,6 +1,6 @@
 baseURL: "https://blog.tarunx.me"
 languageCode: en-us
-title: Tarun Blog
+title: Tarun's Blog
 theme: PaperMod
 
 params:
