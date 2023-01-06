@@ -16,7 +16,11 @@ params:
       url: "https://github.com/tarunkumar519"
     - name: RSS
       url: "https://blog.tarunx.me/index.xml"
-
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
   cover:
     linkFullImages: true
 
