@@ -14,6 +14,8 @@ params:
       url: "https://instagram.com/tarun.reddyyy"
     - name: Github
       url: "https://github.com/tarunkumar519"
+    - name: RSS
+      url: "https://blog.tarunx.me/index.xml"
 
   cover:
     linkFullImages: true
