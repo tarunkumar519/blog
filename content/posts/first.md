@@ -17,3 +17,12 @@ I was looking at static site generators for a long time and finally got around t
 This site also has RSS feeds, just click on the RSS icon on homepage and get content updates on your favourite rss readers.
 
 Who knows? This might finally get me into serious blogging.
+
+## Tech stack used
+
+* Go
+* Hugo
+* Netlify
+* fuse.js
+* highlight.js
+* Working Copy 
