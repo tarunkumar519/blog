@@ -9,7 +9,7 @@ params:
     Content: Welcome to my corner of the internet.
   socialIcons:
     - name: LinkedIn
-      url: "https://www.linkedin.com/in/tarun519"
+      url: "https://facebook.com/"
     - name: Instagram
       url: "https://instagram.com/tarun.reddyyy"
     - name: Github
@@ -21,6 +21,10 @@ params:
   ShowBreadCrumbs: true
 
   ShowReadingTime: true
+  
+  ShowRssButtonInSectionTermList: true
+  ShowCodeCopyButtons: true
+  UseHugoToc: true
 
   ShowShareButtons: true
 
