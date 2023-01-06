@@ -24,7 +24,7 @@ params:
   
   ShowRssButtonInSectionTermList: true
   ShowCodeCopyButtons: true
-  UseHugoToc: true
+  ShowToc: true
 
   ShowShareButtons: true
 
