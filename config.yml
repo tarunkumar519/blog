@@ -17,7 +17,7 @@ params:
     - name: RSS
       url: "https://blog.tarunx.me/index.xml"
     - name: buymeacoffee
-      url: "                    buymeacoffee.com/tharunx                " 
+      url: "https://buymeacoffee.com/tharunx" 
 
   cover:
     linkFullImages: true
