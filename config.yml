@@ -1,19 +1,19 @@
 baseURL: "https://blog.tarunx.me"
 languageCode: en-us
-title: Demo for Hugo
+title: Tarun Blog
 theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: "Hello Stranger"
-    Content: Welcome to my blog. Here you'll find a lot of cool information about a lot of cool stuff.
+    Title: "Hello 👋"
+    Content: Welcome to my corner of the internet.
   socialIcons:
-    - name: facebook
+    - name: LinkedIn
       url: "https://facebook.com/"
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: github
-      url: "https://github.com/"
+    - name: Instagram
+      url: "https://instagram.com/tarun.reddyyy"
+    - name: Github
+      url: "https://github.com/tarunkumar519"
 
   cover:
     linkFullImages: true
