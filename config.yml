@@ -4,8 +4,8 @@ title: Tarun's Blog
 theme: PaperMod
 
 params:
-    assets:
-        disableFingerprinting: true
+  assets:
+      disableFingerprinting: true
   homeInfoParams:
     Title: "Hello 👋"
     Content: Welcome to my corner of the internet.
