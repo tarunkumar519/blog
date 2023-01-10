@@ -62,6 +62,7 @@ menu:
       name: Search
       url: /search/
       weight: 30
+googleAnalytics: G-X21DK6EL6Q
       
 outputs:
   home:
