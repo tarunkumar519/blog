@@ -2,8 +2,8 @@
 title: "First Post"
 date: 2023-01-06T14:48:47+05:30
 draft: false
-tags: ["html", "css"]
-categories: ["tech"]
+tags: ["blogging", "website"]
+categories: ["website"]
 ---
 
 ## Why new site?
