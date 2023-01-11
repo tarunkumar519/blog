@@ -7,8 +7,8 @@ params:
   assets:
       disableFingerprinting: true
   homeInfoParams:
-    Title: "Hello 👋"
-    Content: Welcome to my corner of the internet.
+    Title: "Tarun Reddy"
+    Content: Privacy advocate and Software Developer.Loves command line, DevOps and FOSS
   socialIcons:
     - name: LinkedIn
       url: "https://www.linkedin.com/in/tarun519"
