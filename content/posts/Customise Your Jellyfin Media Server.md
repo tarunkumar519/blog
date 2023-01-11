@@ -66,7 +66,7 @@ There is a plugin called jellyfin-plugin-intros from [dkanada](https://github.co
 
 Vimeo provides 5GB free storage which is plenty for just TV-spots or Trailers stuff. You upload something and get the Vimeo ID from the URL or share URL for the vimeo video.
 
-You just put all vimeo ids seperated with a `.`(comma) like this `1354655,6565376,7675425` and it automatically selects a random id and plays it. This requires active internet connection though. There is also option to store videos offline and play them but i saw many people having issues with it. You can try it if you want. 
+You just put all vimeo ids seperated with a `,`(comma) like this `1354655,6565376,7675425` and it automatically selects a random id and plays it. This requires active internet connection though. There is also option to store videos offline and play them but i saw many people having issues with it. You can try it if you want. 
 
 ## Slick new UI for Jellyfin
 
