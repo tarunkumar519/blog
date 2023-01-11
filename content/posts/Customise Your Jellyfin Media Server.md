@@ -18,8 +18,8 @@ If you have already setup Jellyfin and enjoying iy, you may want to check the be
 
 You can Display custom messages on all Jellyfin Web based clients like Jellyfin web, Jellyfin Media Player on Windows, Jellyfin Android, iOS etc. This might be useful if you want to display server downtime messages to all your users. I also use this to display which content is leaving soon and leaving today just like Netflix. 
 
-![desktop image](images/desktop-message.png)
-![mobile image](images/mobile-message.png)
+![desktop image](/static/images/desktop-message.png)
+![mobile image](/static/images/mobile-message.png)
 You can achieve this by pasting the custom css code from below in the Custom CSS blank inside Jellyfin Server. You can make changes to this as you like for setting your own Font, color, size and whatnot.
 
 
@@ -31,7 +31,7 @@ You can change message in `content:` , just change color from `red` to any other
 
 One cool thing in Plex (only for plex pass subscribers) is how it automatically analyzes the files and finds where the intros are to TV-shows. It will show 'Skip Intro' button just like Netflix. Well. Jellyfin has a plugin for that !
 
-![skip button](images/skip-button.png)
+![skip button](/static/images/skip-button.png)
 
 Intro Skipper plugin from [ConfusedPolarBear](https://github.com/ConfusedPolarBear) does exactly that. You need to follow instructions [here](https://github.com/ConfusedPolarBear/intro-skipper) and install the modifidied web interface just like it says. You can always just delete the web interface folder if maybe it does'nt work for you. Your Jellyfin install will be fine.
 
