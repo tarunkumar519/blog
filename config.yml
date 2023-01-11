@@ -47,7 +47,7 @@ params:
 menu:
   main:
     - identifier: categories
-      name: RSS
+      name: Categories
       url: /categories/
       weight: 10
     - identifier: tags
