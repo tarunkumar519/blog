@@ -34,7 +34,7 @@ One cool thing in Plex (only for plex pass subscribers) is how it automatically 
 
 Intro Skipper plugin from [ConfusedPolarBear](https://github.com/ConfusedPolarBear) does exactly that. You need to follow instructions [here](https://github.com/ConfusedPolarBear/intro-skipper) and install the modifidied web interface just like it says. You can always just delete the web interface folder if maybe it does'nt work for you. Your Jellyfin install will be fine.
 
-One more thing, if you have portainer or docker you might follow thi step from those instructions.
+One more thing, if you have portainer or docker you might follow this step from those instructions.
 
 ```services:
     jellyfin:
