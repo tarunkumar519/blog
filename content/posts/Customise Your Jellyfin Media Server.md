@@ -5,7 +5,7 @@ draft: true
 tags: ["media-server", "jellyfin"]
 categories: ["selfhosting"]
 cover:
-    image: images/customise-your-jellyfin-media-server.jpeg
+    image: images/customise-your-jellyfin-media-server.png
     alt: 'Jellyfin Home Screen'
     caption: 'Jellyfin is a FOSS Media Server'
 ---
