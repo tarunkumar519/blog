@@ -23,7 +23,7 @@ You can Display custom messages on all Jellyfin Web based clients like Jellyfin 
 You can achieve this by pasting the custom css code from below in the Custom CSS blank inside Jellyfin Server. You can make changes to this as you like for setting your own Font, color, size and whatnot.
 
 
-````.emby-tabs-slider::before { content: "Server Maintenance at 6AM"; color: red; font-weight: bold; position: absolute; top: 0.5em; left: 0; width: 100%; text-align: center; } .emby-tab-button { padding-top: 2.5em; } .libraryPage { padding-top: 8.5em !important; }````
+```.emby-tabs-slider::before { content: "Server Maintenance at 6AM"; color: red; font-weight: bold; position: absolute; top: 0.5em; left: 0; width: 100%; text-align: center; } .emby-tab-button { padding-top: 2.5em; } .libraryPage { padding-top: 8.5em !important; }```
 
 You can change message in `content:` , just change color from `red` to any other you like. You may want to fiddle with `top` , `padding` to set how high or low message appears. Make sure it does not collide with top menu bar of Jellyfin.
 
