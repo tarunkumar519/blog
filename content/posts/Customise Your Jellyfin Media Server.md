@@ -18,7 +18,7 @@ If you have already setup Jellyfin and enjoying iy, you may want to check the be
 
 You can Display custom messages on all Jellyfin Web based clients like Jellyfin web, Jellyfin Media Player on Windows, Jellyfin Android, iOS etc. This might be useful if you want to display server downtime messages to all your users. I also use this to display which content is leaving soon and leaving today just like Netflix. 
 
-![[/static/images/desktop-message.png]]
+![[/static/images/desktop-message.png]
 ![[/static/images/mobile-message.png]]
 You can achieve this by pasting the custom css code from below in the Custom CSS blank inside Jellyfin Server. You can make changes to this as you like for setting your own Font, color, size and whatnot.
 
