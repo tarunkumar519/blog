@@ -1,7 +1,7 @@
 ---
 title: "Customise Your Your Jellyfin Media Server"
 date: 2023-01-06T14:48:47+05:30
-draft: true
+draft: false
 tags: ["media-server", "jellyfin"]
 categories: ["selfhosting"]
 cover:
