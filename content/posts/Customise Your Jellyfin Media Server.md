@@ -52,7 +52,7 @@ Here `:ro` at the end of volumes path means ‘readonly’. Just paste everythin
 
 After you followed through all the steps and restarted the Jellyfin server, you can select 'Detect Introductions' task and it will finish in a few minutes. This task is a little CPU, RAM intensive so if you're on lower end devices like a Raspberry Pi make sure you're not doing any other tasks on the server so there is enough RAM and CPU usage available. But a Pi 4 is enough for this task and it will absolutely do it, rest assured.
 
-You might want to download modified Jellyfin Media Player with Intro Skip button build in on Windows from fallenbagel [here](https://github.com/Fallenbagel/jellyfin-media-player/releases). Props to his work.
+You might want to download modified Jellyfin Media Player with Intro Skip button built in on Windows from fallenbagel [here](https://github.com/Fallenbagel/jellyfin-media-player/releases). Props to his work.
 
 If you go into Intro Skipper plugin settings you can even select the specific TV episode and select specific time manually right there to show skip intro button !
 
