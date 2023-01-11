@@ -48,7 +48,7 @@ One more thing, if you have portainer or docker you might follow thi step from t
         image: 'jellyfin/jellyfin:10.8.0'
 ```
 
-I was confused about what `:ro` means at the end of volumes path. Just paste it as it is and it will work.
+Here `:ro` at the end of volumes path means ‘readonly’. Just paste everything as it is and it will work.
 
 After you followed through all the steps and restarted the Jellyfin server, you can select 'Detect Introductions' task and it will finish in a few minutes. This task is a little CPU, RAM intensive so if you're on lower end devices like a Raspberry Pi make sure you're not doing any other tasks on the server so there is enough RAM and CPU usage available. But a Pi 4 is enough for this task and it will absolutely do it, rest assured.
 
