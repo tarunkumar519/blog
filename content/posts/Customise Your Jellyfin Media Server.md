@@ -70,6 +70,6 @@ You just put all vimeo ids seperated with a `,`(comma) like this `1354655,656537
 
 ## Slick new UI for Jellyfin
 
-Want to try a new UI for entire Jellyfin ?  [jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) is the answers. Props to them for making such a cool UI using Vue. This might come as Official Jellyfin UI in the future, who knows. But you can try it right now using the instrutions given there.
+Want to try a new UI for entire Jellyfin ?  [jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) is the answer. Props to them for making such a cool UI using Vue. This might come as Official Jellyfin UI in the future, who knows. But you can try it right now using the instrutions given there.
 
 It would really help me motivate to write more self hosted content by donating. [Buy me a cup of Coffee here](https://buymeacoffee.com/tharunx)
