@@ -20,7 +20,8 @@ params:
       url: "https://blog.tarunx.me/index.xml"
     - name: buymeacoffee
       url: "https://buymeacoffee.com/tharunx"
-  ShowFullTextinRSS: true   
+  ShowFullTextinRSS: true
+  comments: true
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
