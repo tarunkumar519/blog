@@ -19,7 +19,8 @@ params:
     - name: RSS
       url: "https://blog.tarunx.me/index.xml"
     - name: buymeacoffee
-      url: "https://buymeacoffee.com/tharunx" 
+      url: "https://buymeacoffee.com/tharunx"
+  ShowFullTextinRSS: true   
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
