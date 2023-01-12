@@ -12,7 +12,7 @@ cover:
 
 Jellyfin is an awesome Open-Source Media Server for everyone. It is used by most people today who switched from other media servers like Plex or Emby. Many don't like the way Plex is heading.
 
-If you have already setup Jellyfin and enjoying iy, you may want to check the below customisations for Jellyfin to enhance your viewing experience.
+If you have already setup Jellyfin and enjoying it, you may want to check the below customisations for Jellyfin to enhance your viewing experience.
 
 ## Display custom message
 
