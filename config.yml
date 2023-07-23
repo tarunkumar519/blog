@@ -21,7 +21,7 @@ params:
     - name: buymeacoffee
       url: "https://buymeacoffee.com/tharunx"
   ShowFullTextinRSS: true
-  comments: true
+  comments: false
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
