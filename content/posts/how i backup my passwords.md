@@ -71,7 +71,7 @@ rclone copy /portainer/Files/AppData/Config/Bitwarden/ gd:vaultwarden —exclude
 We use rclone to copy our files to remote drives such as Google Drive , OneDrive and Dropbox in our case.
 
 `gd:` in this case means GoogleDrive and `vaultwarden` is the remote folder on the drive which we configured using rclone setup. [Rclone configuration instructions here](https://rclone.org/remote_setup/).
-We are telling rclone to exlude `icon_cache` folder because these are just icons for different websites for which passwords are stored. Bitwarden will download these automatically once configured.
+We are telling rclone to exclude `icon_cache` folder because these are just icons for different websites for which passwords are stored. Bitwarden will download these automatically once configured.
 
 Let’s create a text file that contains date and time of backup. This should be updated everytime the backup is done. So we can check everything is working. We use the date command in Linux for this.
 
