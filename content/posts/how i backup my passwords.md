@@ -1,13 +1,13 @@
 ---
-title: “How i backup my Passwords”
-date: 2023-07-23T12:58:47+05:30
+title: "How i backup my Passwords"
+date: 2023-07-23T21:25:47+05:30
 draft: false
-tags: [“passwords”]
-categories: [“selfhosting”]
+tags: ["passwords"]
+categories: ["selfhosting"]
 cover:
     image: /how-i-backup-my-passwords.png
-    alt: ‘How i backup my Passwords’
-    caption: ‘Bitwarden is an open-source password manager’
+    alt: 'How i backup my Passwords'
+    caption: 'Bitwarden is an open-source password manager'
 ---
 
 ## Why use a password manager?
