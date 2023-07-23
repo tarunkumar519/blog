@@ -1,6 +1,6 @@
 ---
 title: “How i backup my Passwords”
-date: 2023-07-23T12:48:47+05:30
+date: 2023-07-23T12:58:47+05:30
 draft: false
 tags: [“passwords”]
 categories: [“selfhosting”]
