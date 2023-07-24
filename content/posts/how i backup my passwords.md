@@ -82,10 +82,10 @@ Our final bash script looks like this
 
 ```
 #!/bin/bash
-  date > /portainer/Files/AppData/Config/Bitwarden/stamp.txt
   docker stop vaultwarden
   rclone copy /portainer/Files/AppData/Config/Bitwarden/ gd:vaultwarden —exclude=“/icon_cache**”
   docker start vaultwarden
+  date > /portainer/Files/AppData/Config/Bitwarden/stamp.txt
 ```
 
 ## Setting up cron
@@ -110,10 +110,10 @@ Once setup, this is done automatically everyday and we can check our drives for 
 
 ## How to restore from backup
 
-This part is simple. Wherever you want to run vaultwarden, just install it and run it. Vaultwarden will create the ‘Bitwarden’ folder fresh. 
+This part is simple. Wherever you want to run vaultwarden, just install it and run it. Vaultwarden will create the `Bitwarden` folder fresh. 
 
 Just stop vaultwarden.
 Copy and paste your original Bitwarden folder - overwrite it.
 Start vaultwarden.
 
-Everything should be back to normal. You unlock it using your master password and even all the configuration you did inside ‘config.json’ is still there since it is also in the backed up files.
+Everything should be back to normal. You unlock it using your master password and even all the configuration you did inside `config.json` is still there since it is also in the backed up files.
