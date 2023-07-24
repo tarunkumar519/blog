@@ -107,3 +107,13 @@ Since we don’t want any output from the bash, the `>/dev/null 2>&1` sends the 
 `2>&1` means discarding stardard error 2 to standard output 1 which then discards it as well.
 
 Once setup, this is done automatically everyday and we can check our drives for files with last modified dates and `stamp.txt` for when backups happened.
+
+## How to restore from backup
+
+This part is simple. Wherever you want to run vaultwarden, just install it and run it. Vaultwarden will create the ‘Bitwarden’ folder fresh. 
+
+Just stop vaultwarden.
+Copy and paste your original Bitwarden folder - overwrite it.
+Start vaultwarden.
+
+Everything should be back to normal. You unlock it using your master password and even all the configuration you did inside ‘config.json’ is still there since it is also in the backed up files.
