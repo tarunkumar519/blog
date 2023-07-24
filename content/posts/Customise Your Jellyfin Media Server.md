@@ -62,7 +62,7 @@ Plex, Emby (only with Emby premiere subscription) plays trailers of Movies, Show
 
 Well, Jellyfin can do this too !
 
-There is a plugin called jellyfin-plugin-intros from [dkanada](https://github.com/dkanada), you can get it [here](https://github.com/dkanada/jellyfin-plugin-intros). Follow the instructions in there to install it. This plugin is designed to play intros only from the website prerolls.video or any video from vimeo. Well, there are many trailers, TV spots for Movies, Shows on Vimeo already, We can upload our own TV-sports and trailers to Vimeo too and put those into this plugin.
+There is a plugin called jellyfin-plugin-intros from [dkanada](https://github.com/dkanada), you can get it [here](https://github.com/dkanada/jellyfin-plugin-intros). Follow the instructions in there to install it. This plugin is designed to play intros only from the website prerolls.video or any video from vimeo. Well, there are many trailers, TV spots for Movies, Shows on Vimeo already, We can upload our own TV-spots and trailers to Vimeo too and put those into this plugin.
 
 Vimeo provides 5GB free storage which is plenty for just TV-spots or Trailers stuff. You upload something and get the Vimeo ID from the URL or share URL for the vimeo video.
 
