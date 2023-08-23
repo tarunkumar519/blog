@@ -83,9 +83,9 @@ Our final bash script looks like this
 ```
 #!/bin/bash
   docker stop vaultwarden
+  date > /portainer/Files/AppData/Config/Bitwarden/stamp.txt
   rclone copy /portainer/Files/AppData/Config/Bitwarden/ gd:vaultwarden —exclude=“/icon_cache**”
   docker start vaultwarden
-  date > /portainer/Files/AppData/Config/Bitwarden/stamp.txt
 ```
 
 ## Setting up cron
